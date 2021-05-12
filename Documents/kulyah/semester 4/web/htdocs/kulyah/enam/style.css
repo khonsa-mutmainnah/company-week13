@@ -1,0 +1,42 @@
+
+.navbar {
+    background-color: #20B2AA;
+    font-family: "Comfortaa";
+    font-weight: 300;
+    font-size: large;
+  }
+  
+  .navbar-nav a {
+    color: white;
+  }
+  
+  .isi {
+    background-color: white;
+    color: #20B2AA;
+    font-family: "Comfortaa";
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+  }
+
+  .isi h1{
+    text-align: center;
+    font-weight: 600;
+    padding: 20px 20px;
+  }
+
+  .footer {
+    background-color: #20B2AA;
+    margin-top: -20px;
+    width: 1366px;
+    height: 30px;
+    text-align: center;
+    color: black;
+    font-family: "Comfortaa";
+    font-weight: 400;
+  }
+
+  .table th{
+    background-color: yellow;
+  }
+
